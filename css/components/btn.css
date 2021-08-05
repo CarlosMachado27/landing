@@ -1,0 +1,9 @@
+
+  .btn-primary{
+    display: inline-block;
+    background-color: #BD4B4B;
+    padding: 10px 13px;
+    border-radius: 50px;
+    color: #EEEEEE;
+    font: bold;
+  }
